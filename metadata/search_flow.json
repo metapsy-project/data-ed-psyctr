@@ -1,0 +1,18 @@
+{
+    "database.hits": 836,
+    "database.hits.duplicates.removed": 585,
+    "records.screened": 585,
+    "full.text.assessed.for.eligibility": 310,
+    "full.text.excluded.reasons": 
+    {
+        "Companion papers": 48,
+        "No CBT": 35,
+        "Incorrect comparator": 90,
+        "No clinical diagnosis": 58,
+        "Protocol without data": 24,
+        "Abstracts or theses": 7,
+        "Adolescents": 4,
+        "Other": 8
+    },
+    "included": 36
+}

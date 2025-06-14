@@ -1,0 +1,57 @@
+**Basic search string for all databases**
+---
+
+("eating disorder" OR bulimi* OR anorexi* OR EDNOS OR OSFED OR (binge AND eating) OR (binging AND eating)) 
+
+AND
+
+CBT OR cognitive-behav* OR "cognitive behav*" OR "3rd wave" OR third-wave OR "third wave" OR "ACT" OR "acceptance and commit*" OR mindful* OR "compassionate mind training" OR "compassion focused therapy" OR "behavioral activation" OR "behavioural activation" OR "meta-cognitive therapy" OR "metacognitive therapy" OR "DBT" OR "dialectical behavior therapy" OR "dialectical behaviour therapy" OR "schema therapy" OR "Functional analytic" OR "relational frame"
+
+
+**Pubmed**
+---
+
+Search: #9 and #11 Filters: Randomized Controlled Trial, from 2017 - 2023 Sort by: Most Recent
+CBT OR cognitive-behav* OR "cognitive behav*" OR "3rd wave" OR third-wave OR "third wave" OR "ACT" OR "acceptance and commit*" OR mindful* OR "compassionate mind training" OR "compassion focused therapy" OR "behavioral activation" OR "behavioural activation" OR "meta-cognitive therapy" OR "metacognitive therapy" OR "DBT" OR "dialectical behavior therapy" OR "dialectical behaviour therapy" OR "schema therapy" OR "Functional analytic" OR "relational frame" 
+AND
+"eating disorder" OR bulimi* OR anorexi* OR EDNOS OR OSFED OR (binge AND eating) OR (binging AND eating)
+Filters: Randomized Controlled Trial, from 2017 - 2023
+
+Full search string:
+(("eating disorder"[All Fields] OR "bulimi*"[All Fields] OR "anorexi*"[All Fields] OR "EDNOS"[All Fields] OR "OSFED"[All Fields] OR (("binge"[All Fields] OR "binged"[All Fields] OR "bingeing"[All Fields] OR "binges"[All Fields] OR "binging"[All Fields]) AND ("eating"[MeSH Terms] OR "eating"[All Fields])) OR (("binge"[All Fields] OR "binged"[All Fields] OR "bingeing"[All Fields] OR "binges"[All Fields] OR "binging"[All Fields]) AND ("eating"[MeSH Terms] OR "eating"[All Fields]))) AND ("CBT"[All Fields] OR "cognitive behav*"[All Fields] OR "cognitive behav*"[All Fields] OR "3rd wave"[All Fields] OR "third-wave"[All Fields] OR "third-wave"[All Fields] OR "ACT"[All Fields] OR "acceptance and commit*"[All Fields] OR "mindful*"[All Fields] OR "compassionate mind training"[All Fields] OR "compassion focused therapy"[All Fields] OR "behavioral activation"[All Fields] OR "behavioural activation"[All Fields] OR "meta-cognitive therapy"[All Fields] OR "metacognitive therapy"[All Fields] OR "DBT"[All Fields] OR "dialectical behavior therapy"[All Fields] OR "dialectical behaviour therapy"[All Fields] OR "schema therapy"[All Fields] OR "Functional analytic"[All Fields] OR "relational frame"[All Fields])) AND ((randomizedcontrolledtrial[Filter]) AND (2017:2023[pdat]))
+Translations
+binge: "binge"[All Fields] OR "binged"[All Fields] OR "bingeing"[All Fields] OR "binges"[All Fields] OR "binging"[All Fields]
+eating: "eating"[MeSH Terms] OR "eating"[All Fields]
+binging: "binge"[All Fields] OR "binged"[All Fields] OR "bingeing"[All Fields] OR "binges"[All Fields] OR "binging"[All Fields]
+eating: "eating"[MeSH Terms] OR "eating"[All Fields]
+
+
+**PSYCHINFO**
+---
+
+Search string
+( (CBT OR cognitive-behav* OR "cognitive behav*" OR "3rd wave" OR third-wave OR "third wave" OR "ACT" OR "acceptance and commit*" OR mindful* OR "compassionate mind training" OR "compassion focused therapy" OR "behavioral activation" OR "behavioural activation" OR "meta-cognitive therapy" OR "metacognitive therapy" OR "DBT" OR "dialectical behavior therapy" OR "dialectical behaviour therapy" OR "schema therapy" OR "Functional analytic" OR "relational frame") ) AND ( ("eating disorder" OR bulimi* OR anorexi* OR EDNOS OR OSFED OR (binge AND eating) OR (binging AND eating)) )
+Limiters - Publication Year: 2017-2024
+Narrow by Methodology: - clinical trial
+
+
+**EMBASE**
+---
+
+Search string
+(cbt OR 'cognitive behav*' OR '3rd wave' OR 'third wave' OR 'act'/exp OR 'act' OR 'acceptance and commit*' OR mindful* OR 'compassionate mind training' OR 'compassion focused therapy'/exp OR 'compassion focused therapy' OR 'behavioral activation'/exp OR 'behavioral activation' OR 'behavioural activation'/exp OR 'behavioural activation' OR 'meta-cognitive therapy' OR 'metacognitive therapy'/exp OR 'metacognitive therapy' OR 'dbt' OR 'dialectical behavior therapy'/exp OR 'dialectical behavior therapy' OR 'dialectical behaviour therapy'/exp OR 'dialectical behaviour therapy' OR 'schema therapy'/exp OR 'schema therapy' OR 'functional analytic' OR 'relational frame') AND ('eating disorder'/exp OR 'eating disorder' OR bulimi* OR anorexi* OR 'ednos'/exp OR ednos OR 'osfed'/exp OR osfed OR (binge AND ('eating'/exp OR eating)) OR (binging AND ('eating'/exp OR eating)))
+
+Limits:
+2017:py OR 2018:py OR 2019:py OR 2020:py OR 2021:py OR 2022:py OR 2023:py) 
+AND 'randomized controlled trial'/de
+
+
+**CINAHL*
+---
+
+Search string
+(cbt OR 'cognitive behav*' OR '3rd wave' OR 'third wave' OR 'act'/exp OR 'act' OR 'acceptance and commit*' OR mindful* OR 'compassionate mind training' OR 'compassion focused therapy'/exp OR 'compassion focused therapy' OR 'behavioral activation'/exp OR 'behavioral activation' OR 'behavioural activation'/exp OR 'behavioural activation' OR 'meta-cognitive therapy' OR 'metacognitive therapy'/exp OR 'metacognitive therapy' OR 'dbt' OR 'dialectical behavior therapy'/exp OR 'dialectical behavior therapy' OR 'dialectical behaviour therapy'/exp OR 'dialectical behaviour therapy' OR 'schema therapy'/exp OR 'schema therapy' OR 'functional analytic' OR 'relational frame') AND ('eating disorder'/exp OR 'eating disorder' OR bulimi* OR anorexi* OR 'ednos'/exp OR ednos OR 'osfed'/exp OR osfed OR (binge AND ('eating'/exp OR eating)) OR (binging AND ('eating'/exp OR eating)))
+
+Limits:
+Year: 2017 to 2023
+AND 'randomized controlled trial'/de
